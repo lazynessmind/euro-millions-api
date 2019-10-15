@@ -32,8 +32,8 @@ Node.js server that returns the last Euro Millions Results using web scraping.
 
 ### Dependencies:
 
-*** Cheerio *** - https://github.com/cheeriojs/cheerio
-*** express *** - https://github.com/expressjs/express
-*** request *** - https://github.com/request/request
+***Cheerio*** https://github.com/cheeriojs/cheerio
+***express*** https://github.com/expressjs/express
+***request*** https://github.com/request/request
 
 ### License MIT | lazynessmind 2019
