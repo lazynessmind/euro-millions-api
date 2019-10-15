@@ -1,6 +1,7 @@
+# Euro Millions Results / Resultados Euro Milhões
+
 <p align="center">
-  <p>Euro Millions Results / Resultados Euro Milhões</p>
-  
+  <p></p>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lazynessmind/euro-millions.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lazynessmind/euro-millions.svg">
