@@ -4,6 +4,10 @@ const cheerio = require('cheerio')
 
 const app = express();
 
+app.get('/', (req, res)=>{
+    res.send('Server running')
+})
+
 app.get('/lastResult', (req, res) => {
     request('https://www.jogossantacasa.pt/web/SCCartazResult/', (err, result, html) => {
         const $ = cheerio.load(html)
