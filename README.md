@@ -14,7 +14,7 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>F
+</p>
 
 ## Description:
 
@@ -22,6 +22,6 @@ Node.js server that returns the last Euro Millions Results using web scraping.
 
 ### How to run:
 
-´´´
+```
 npm run dev
-´´´
+```
