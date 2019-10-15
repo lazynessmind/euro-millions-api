@@ -28,12 +28,12 @@ Node.js server that returns the last Euro Millions Results using web scraping.
 
 `Get last result - localhost:3000/lastResult`
 
-***PS:*** The response will always be a json object;
+**PS:** The response will always be a json object;
 
 ### Dependencies:
 
-* *Cheerio* https://github.com/cheeriojs/cheerio
-* *express* https://github.com/expressjs/express
-* *request* https://github.com/request/request
+* **cheerio** https://github.com/cheeriojs/cheerio
+* **express** https://github.com/expressjs/express
+* **request** https://github.com/request/request
 
 ### License MIT | lazynessmind 2019
