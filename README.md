@@ -1,17 +1,16 @@
 # Euro Millions Results / Resultados Euro Milhões
 
 <p align="center">
-  <p></p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lazynessmind/euro-millions.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lazynessmind/euro-millions-api.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lazynessmind/euro-millions.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lazynessmind/euro-millions-api.svg">
   
   <a href="https://github.com/lazynessmind/euro-millions/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lazynessmind/euro-millions.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lazynessmind/euro-millions-api.svg">
   </a>
 
   <a href="https://github.com/lazynessmind/euro-millions/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lazynessmind/euro-millions.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lazynessmind/euro-millions-api.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
