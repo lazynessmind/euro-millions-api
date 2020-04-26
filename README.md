@@ -31,6 +31,7 @@ Node.js server that returns the last Euro Millions Results using web scraping.
 ### API:
 
 `Get last result - localhost:3000/lastResult`
+`Get M1lhão Code - localhost:3000/milhao`
 
 **PS:** The response will always be a json object;
 
@@ -40,4 +41,4 @@ Node.js server that returns the last Euro Millions Results using web scraping.
 * **express** https://github.com/expressjs/express
 * **request** https://github.com/request/request
 
-### License MIT | lazynessmind 2019
+### License MIT | lazynessmind 2020
