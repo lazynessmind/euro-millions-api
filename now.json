@@ -7,24 +7,34 @@
         "use": "@now/node-server"
     }],
     "routes": [{
-        "headers": {
-            "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-            "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+            "headers": {
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+                "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+            },
+            "src": "/last",
+            "dest": "index.js",
+            "methods": ["GET"]
         },
-        "src": "/lastResult",
-        "dest": "index.js",
-        "methods": ["GET"]
-    },
-    {
-        "headers": {
-            "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-            "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
-        },
-        "src": "/m1lhao",
-        "dest": "index.js",
-        "methods": ["GET"]
-    }]
+        {
+            "headers": {
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+                "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+            },
+            "src": "/euro",
+            "dest": "index.js",
+            "methods": ["GET"]
+        }, {
+            "headers": {
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+                "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
+            },
+            "src": "/milhao",
+            "dest": "index.js",
+            "methods": ["GET"]
+        }
+    ]
 
 }
